@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+gigachat_prompt.txt
+gigachat_result.txt
